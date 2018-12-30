@@ -1,6 +1,6 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Дарья Морено-Гоголева](https://up.htmlacademy.ru/javascript/16/user/274253).
+* Студент: [Бородулин Виталий](https://htmlacademy.ru/profile/id622831).
 * Наставник: `Неизвестно`.
 
 ---
